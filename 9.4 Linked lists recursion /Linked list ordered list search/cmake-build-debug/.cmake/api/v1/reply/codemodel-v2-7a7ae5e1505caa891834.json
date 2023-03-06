@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Linked_list_ordered_list_search",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Linked_list_ordered_list_search::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Linked_list_ordered_list_search-Debug-9528e982ebfd6b71c1ca.json",
+					"name" : "Linked_list_ordered_list_search",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/adameljaa/Desktop/Code/Term 2/9.4:9.5 Linked lists recursion /Linked list ordered list search/cmake-build-debug",
+		"source" : "/Users/adameljaa/Desktop/Code/Term 2/9.4:9.5 Linked lists recursion /Linked list ordered list search"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

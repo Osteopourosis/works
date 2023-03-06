@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "User_Inputed_linked_lists",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "User_Inputed_linked_lists::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-User_Inputed_linked_lists-Debug-0d2740a6762852b3209d.json",
+					"name" : "User_Inputed_linked_lists",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/adameljaa/Desktop/Code/Term 2/9.3 Linked Lists/User Inputed linked lists/cmake-build-debug",
+		"source" : "/Users/adameljaa/Desktop/Code/Term 2/9.3 Linked Lists/User Inputed linked lists"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

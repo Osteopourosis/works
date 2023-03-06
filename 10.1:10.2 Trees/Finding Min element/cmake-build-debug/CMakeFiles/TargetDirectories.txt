@@ -1,0 +1,3 @@
+/Users/adameljaa/Desktop/Code/Term 2/10.1:10.2 Trees/Finding Min element/cmake-build-debug/CMakeFiles/Finding_Min_element.dir
+/Users/adameljaa/Desktop/Code/Term 2/10.1:10.2 Trees/Finding Min element/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adameljaa/Desktop/Code/Term 2/10.1:10.2 Trees/Finding Min element/cmake-build-debug/CMakeFiles/rebuild_cache.dir

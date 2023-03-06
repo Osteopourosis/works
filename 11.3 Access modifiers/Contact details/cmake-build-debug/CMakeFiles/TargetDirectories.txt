@@ -1,0 +1,3 @@
+/Users/adameljaa/Desktop/Code/Term 2/11.3 Access modifiers/Contact details/cmake-build-debug/CMakeFiles/Contact_details.dir
+/Users/adameljaa/Desktop/Code/Term 2/11.3 Access modifiers/Contact details/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adameljaa/Desktop/Code/Term 2/11.3 Access modifiers/Contact details/cmake-build-debug/CMakeFiles/rebuild_cache.dir
