@@ -1,3 +1,1 @@
-# C-projects
-# C-projects
-# works
+# C++ projects
